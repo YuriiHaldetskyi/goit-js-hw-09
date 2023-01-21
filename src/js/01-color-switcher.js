@@ -18,7 +18,7 @@ function onClick(e) {
     document.body.style.backgroundColor = getRandomHexColor();
   }, 1000);
 }
-
+const asd = 'Asd';
 function onStop(e) {
   clearInterval(timeId);
   startButton.disabled = false;
