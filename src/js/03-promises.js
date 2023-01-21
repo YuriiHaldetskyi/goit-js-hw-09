@@ -22,6 +22,7 @@ function formSubmit(e) {
   }
 }
 
+const asdyf = 'fsd';
 function createPromise(position, delay) {
   const promise = new Promise((resolve, reject) => {
     setTimeout(() => {
